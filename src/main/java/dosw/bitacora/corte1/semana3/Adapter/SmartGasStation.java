@@ -1,7 +1,7 @@
 package dosw.bitacora.corte1.semana3.Adapter;
 
-import dosw.bitacora.semana3.Adapter.FuelService.*;
-import dosw.bitacora.semana3.Adapter.GasPump.GasPump;
+import dosw.bitacora.corte1.semana3.Adapter.FuelService.*;
+import dosw.bitacora.corte1.semana3.Adapter.GasPump.GasPump;
 
 public class SmartGasStation {
     public static void main(String[] args) {

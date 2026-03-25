@@ -1,9 +1,11 @@
 package dosw.bitacora.corte1.semana3.AbstractFactory;
 
-import dosw.bitacora.semana3.AbstractFactory.Console.ConsoleFactory;
-import dosw.bitacora.semana3.AbstractFactory.Console.GameEnginee;
-import dosw.bitacora.semana3.AbstractFactory.Console.PlayStationFactory;
-import dosw.bitacora.semana3.AbstractFactory.Console.XboxFactory;
+import dosw.bitacora.corte1.semana3.AbstractFactory.Console.ConsoleFactory;
+import dosw.bitacora.corte1.semana3.AbstractFactory.Console.GameEnginee;
+import dosw.bitacora.corte1.semana3.AbstractFactory.Console.PlayStationFactory;
+import dosw.bitacora.corte1.semana3.AbstractFactory.Console.XboxFactory;
+import dosw.bitacora.corte1.semana3.AbstractFactory.Controller.*;
+
 
 public class main {
     public static void main(String[] args) {

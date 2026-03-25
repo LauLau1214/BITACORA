@@ -1,9 +1,9 @@
 package dosw.bitacora.corte1.semana3.FactoryMethod;
 
-import dosw.bitacora.semana3.FactoryMethod.Porcessor.BankTransferProcessor;
-import dosw.bitacora.semana3.FactoryMethod.Porcessor.CreditCardProcessor;
-import dosw.bitacora.semana3.FactoryMethod.Porcessor.PayPalProcessor;
-import dosw.bitacora.semana3.FactoryMethod.Porcessor.PaymentProcessor;
+import dosw.bitacora.corte1.semana3.FactoryMethod.Porcessor.BankTransferProcessor;
+import dosw.bitacora.corte1.semana3.FactoryMethod.Porcessor.CreditCardProcessor;
+import dosw.bitacora.corte1.semana3.FactoryMethod.Porcessor.PayPalProcessor;
+import dosw.bitacora.corte1.semana3.FactoryMethod.Porcessor.PaymentProcessor;
 
 public class main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package dosw.bitacora.corte1.semana3.Composite;
 
-import dosw.bitacora.semana3.Composite.Item.*;
+import dosw.bitacora.corte1.semana3.Composite.Item.*;
 
 public class main {
 

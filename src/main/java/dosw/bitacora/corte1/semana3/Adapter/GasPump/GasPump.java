@@ -1,6 +1,6 @@
 package dosw.bitacora.corte1.semana3.Adapter.GasPump;
 
-import dosw.bitacora.semana3.Adapter.FuelService.FuelService;
+import dosw.bitacora.corte1.semana3.Adapter.FuelService.FuelService;
 
 public class GasPump implements FuelService {
 

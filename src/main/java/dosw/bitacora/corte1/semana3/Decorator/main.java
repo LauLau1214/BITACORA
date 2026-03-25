@@ -1,7 +1,7 @@
 package dosw.bitacora.corte1.semana3.Decorator;
 
-import dosw.bitacora.semana3.Decorator.Barco.*;
-import dosw.bitacora.semana3.Decorator.BarcoDecorator.*;
+import dosw.bitacora.corte1.semana3.Decorator.Barco.*;
+import dosw.bitacora.corte1.semana3.Decorator.BarcoDecorator.*;
 import java.util.List;
 import java.util.Map;
 import java.util.HashMap;

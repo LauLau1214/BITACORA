@@ -1,6 +1,6 @@
 package dosw.bitacora.corte1.semana3.Builder.ToyBuilder;
 
-import dosw.bitacora.semana3.Builder.Toy.ToyDoll;
+import dosw.bitacora.corte1.semana3.Builder.Toy.ToyDoll;
 
 public class ClassicDollBuilder implements ToyDollBuilder {
 

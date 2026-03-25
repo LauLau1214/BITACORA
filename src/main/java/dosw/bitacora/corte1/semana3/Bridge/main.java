@@ -1,7 +1,7 @@
 package dosw.bitacora.corte1.semana3.Bridge;
 
-import dosw.bitacora.semana3.Bridge.Forma.*;
-import dosw.bitacora.semana3.Bridge.Color.*;
+import dosw.bitacora.corte1.semana3.Bridge.Forma.*;
+import dosw.bitacora.corte1.semana3.Bridge.Color.*;
 
 public class main {
 

@@ -1,6 +1,6 @@
 package dosw.bitacora.corte1.semana3.Decorator.BarcoDecorator;
 
-import dosw.bitacora.semana3.Decorator.Barco.Barco;
+import dosw.bitacora.corte1.semana3.Decorator.Barco.Barco;
 
 public class AntiTorpedosDecorador extends BarcoBaseDecorator {
 
