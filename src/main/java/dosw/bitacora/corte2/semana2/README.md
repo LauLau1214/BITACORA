@@ -80,3 +80,12 @@ El sistema permite generar reportes flexibles, extensibles y personalizables, ta
 
 ![SonarQube 1](evidencias/sonar1.png)
 ![SonarQube 2](evidencias/sonar2.png)
+
+
+## Ejercicio Biblioteca 
+
+| Biblioteca | https://github.com/LauLau1214/DOSW-Library.git |
+
+## Ejercicio del preparcial
+
+| Preparcial | https://github.com/LauLau1214/ECI-SportLife.git |
